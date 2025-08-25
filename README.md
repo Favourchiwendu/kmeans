@@ -32,3 +32,6 @@ cd kmeans
 2. Run the file
 ```bash
 python main.py
+
+
+Author: Nnamani Favour 
